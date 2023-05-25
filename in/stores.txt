@@ -1,0 +1,4 @@
+3
+StoreA 10 20
+StoreB 15 25
+StoreC 30 40

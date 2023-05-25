@@ -1,0 +1,52 @@
+Client 
+12:00:00
+Luca
+1 10
+-1 -1
+StoreA
+
+Manager
+09:00:00
+StoreA
+
+Manager
+12:00:01
+StoreA
+
+StockUpdate 
+08:00:00
+1 12
+-1 -1
+StoreA
+
+Client         
+14:00:00
+Teo
+1 5
+-1 -1
+StoreA
+
+Client
+14:30:00
+Pclp
+0 1
+-1 -1
+StoreA
+
+Manager
+14:45:00
+StoreA
+
+Feedback
+15:00:00
+Luca
+
+Feedback
+15:00:01
+Teo
+
+Feedback
+15:00:10
+Pclp
+
+END
