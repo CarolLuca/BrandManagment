@@ -1,0 +1,33 @@
+Store: StoreA
+Time: 12:00:01
+Product Database:
+Product 0: 0
+Product 1: 2
+Product 2: 0
+Product 3: 0
+Product 4: 0
+Product 5: 0
+Product 6: 0
+Product 7: 0
+Product 8: 0
+Product 9: 0
+Product 10: 0
+Product 11: 0
+Product 12: 0
+Product 13: 0
+Product 14: 0
+Product 15: 0
+Product 16: 0
+Product 17: 0
+Product 18: 0
+Product 19: 0
+Product 20: 0
+Product 21: 0
+Product 22: 0
+Product 23: 0
+Product 24: 0
+Product 25: 0
+Product 26: 0
+Product 27: 0
+Product 28: 0
+Product 29: 0
